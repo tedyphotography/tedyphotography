@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "TEDY PHOTOGRAPHY",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyCHVG-G4cAiiFGoL_J5gObLFL94seEa4cQ"
 };
